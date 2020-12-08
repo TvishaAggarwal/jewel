@@ -1,0 +1,43 @@
+body{
+  text-align:center;
+  color:yellow;
+  background-color:black;
+}
+#title{
+  font-size:80px;
+  font-variant:small-caps
+}
+#necklaces{
+  font-size:40px;
+}
+#picneck{
+  width:300px;
+  height:400px;
+}
+#earings{
+  font-size:40px;
+}
+#picear{
+  width:300px;
+  height:400px;
+}
+#bracelets{
+  font-size:40px;
+}
+#picbrace{
+ width:400px;
+ height:400px;
+}
+#malas{
+  font-size:40px;
+}
+#picmal{
+  width:300px;
+  height:400px;
+}  
+#information{
+    text-align:left
+}
+#contact{
+text-align:left
+}
